@@ -17,4 +17,4 @@ Technologies
 Installation
 pip install -r requirements.txt
 playwright install
-python car_deal_analyzer.py
+
